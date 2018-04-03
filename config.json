@@ -1,0 +1,7 @@
+{
+	"ping_count": "1",
+	"frequency": 10,
+	"logfile_path":"logs.log",
+        "errorfile_path": "error.log",
+	"hosts": ["github.com"]
+}
